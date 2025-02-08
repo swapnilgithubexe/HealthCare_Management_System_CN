@@ -1,0 +1,13 @@
+## Features I have included based on my understanding of the project.
+1. Advanced Dynamic Eveing Logging (Based on Event Mapping Technique) - this approach allows us to automatically log specific events (consultation booking, logins, signups etc.) based on the route and API consumption. 
+Advantages - Backup Data
+Key features are mentioned below
+
+Doctor Registration & Profile Management
+Manage Appointments
+Categorization & Searchability
+Patient History & Medical Records
+Patient Registration & Profile Management
+Find & Book Doctors
+View & Manage Appointments
+Medical Records & History
